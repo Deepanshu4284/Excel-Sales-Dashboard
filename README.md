@@ -101,9 +101,9 @@ Topics covered in the course:
 
 ## 👤 Author
 
-**[Your Name]**  
+Deepanshu Mohanty 
 Aspiring Data Analyst | Learning Excel, Python & BI Tools  
-📧 your.email@example.com  
+📧 deepanshumohanty@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
