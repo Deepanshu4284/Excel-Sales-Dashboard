@@ -61,7 +61,11 @@ This project simulates a **retail sales dataset** for a fictional electronics co
 ## 📸 Screenshots
 
 > ### 📌 Summary Report Dashboard
-> ![Summary Report](Summary Report.png)
+> ![Summary Report](Summary-Report.png)
+> ### 📌 Regional Sales Analysis
+> ![Regional Analysis](Regional-Report.png)
+> ### 📌 Product Performance Analysis
+> ![Product Analysis](.png)
 
 ---
 
