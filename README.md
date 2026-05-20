@@ -60,7 +60,8 @@ This project simulates a **retail sales dataset** for a fictional electronics co
 
 ## 📸 Screenshots
 
-> *(Add screenshots of each sheet here after opening in Excel)*
+> ### 📌 Summary Report Dashboard
+> ![Summary Report](Summary Report.png)
 
 ---
 
