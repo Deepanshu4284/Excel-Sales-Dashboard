@@ -65,7 +65,7 @@ This project simulates a **retail sales dataset** for a fictional electronics co
 > ### 📌 Regional Sales Analysis
 > ![Regional Analysis](Regional-Report.png)
 > ### 📌 Product Performance Analysis
-> ![Product Analysis](.png)
+> ![Product Analysis](Product-Analysis.png)
 
 ---
 
